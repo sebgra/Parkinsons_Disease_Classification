@@ -36,11 +36,10 @@ A serie of classical machine learning models were used, such as :
 These models are reused after PCA compression of the data to decrease computation time. The minimal variance explained to reach during the compression is set to 0.8 but can be easily changed. 
 
 ## Results
+ 
 
-A score of 0.6208 was reached after 50 epochs. 
-
-<img src="https://github.com/sebgra/Arrythmia_Classification/blob/main/ECG_Classification_Results.png"
-     alt="Markdown Monster icon"
+<img src="https://github.com/sebgra/Parkinsons_Disease_Classification/blob/main/results/images/Classification_results.png"
+     alt="Results graph"
      style="float: left; margin-right: 10px;" />
 
 
